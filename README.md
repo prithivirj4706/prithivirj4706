@@ -32,7 +32,7 @@ I build applied AI systems — RAG assistants, multi-agent pipelines, forecastin
 ## 🏆 Highlights
 
 - 🥇 **"The Grand Vibe Master"** award: Hiring Hack 2026, a 30-hour Vibeathon (4-member team)
-- Smart India Hackathon 2025 shortlist with a microplastic sensor project
+
 - 1st place, C Code Challenge
 
 ## 📫 Connect
