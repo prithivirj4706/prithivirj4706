@@ -1,6 +1,6 @@
 # Hi, I'm Prithiviraj G S 👋
 
-**AI/ML Engineering student** at Rathinam Technical Campus, Coimbatore (2024–2028) · **AI & ML Intern** at Edunet Foundation · Indie game developer
+**AI/ML Engineering student** at Rathinam Technical Campus, Coimbatore (2024–2028) · Indie game developer
 
 I build applied AI systems — RAG assistants, multi-agent pipelines, forecasting engines — and the occasional game on the side.
 
